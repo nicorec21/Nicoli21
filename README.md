@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicoli21
+- 👋 Hi, I’m @nico.rec
 - 📫 How to reach me nicolas.recchini@gmail.com
 
 <!---
